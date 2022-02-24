@@ -12,7 +12,7 @@ Final fight fue el primer juego de recreativa que jugue. Su historia simple pero
 2º dentro de retroarch ve a la carpta system/mame2003plus y ahi creas una carpeta llamada samples
 3º una vez ahi colocas el zip o carpeta cuyo nombre sea igual al rom que en este caso se llamaria ffight.zip
 https://drive.google.com/file/d/1bFCH5FJzX8eiaj1sUIZlBOm11qWoQaOm/view (BSO version double impact)
-https://drive.google.com/drive/folders/13Lzqdx2kH-G3t4aStfkznu5uQK7ThMwi(BSO de otros juegos en los que esta la version Mega CD que vamos a utilizar)
+https://drive.google.com/drive/folders/13Lzqdx2kH-G3t4aStfkznu5uQK7ThMwi (BSO de otros juegos en los que esta la version Mega CD que vamos a utilizar)
 4ºacuerdate que en las opcioens de nucleo de retroarch en la opcion de sonido habilites el cd soundtrack y la sincronizacion de los tracks para evitar desajustes (lo ultimo opcional)
 una vez bajados abre los zip y por un momento y veras que hay mas tracklist en la version mega CD que la version double impact. Si tu solo colocases la segunda a la hora de jugar al juego habira momentos de la parte del final en los cuales no cargaria bien las samples. Ante mi duda y la falta de informacion que hay sobre como poder conseguir lo que em proponia escribi un gitup y fue gracias a @mahoneyt944 quien me ilumino la idea que voy a reflejar y es la siguiente:
 Mega CD tiene todas las pista, Es la que mas comun se utiliza como mod y el double impact apenas he visto ejemplos en plataformas tipo youtube y demas y nuevamente matizo que no hay apenas informacion de ahi que escriba esto que estoy escribiendo.
