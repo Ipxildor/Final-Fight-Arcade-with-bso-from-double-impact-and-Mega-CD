@@ -1,5 +1,6 @@
 # Final-Fight-Arcade-with-bso-from-double-impact-and-Mega-CD
-tutorial fácil para poder jugar la versión arcade con la banda sonora de los juegos
+tutorial fácil para poder jugar la versión arcade con la banda sonora de los juegos.
+
 Final fight fue el primer juego de recreativa que jugue. Su historia simple pero a su vez adictiva fue lo que mas me llamo la atencion y a dia de hoy es una juego que se considera de los mejores beat em ups hechos por Capcom ( a su vez bastante olvidado a dia de hoy). Es por ello que tasteando por la red hace unos años encontre videos de gente que tenian su version arcade con musica de la version CD a lo que me parecio algo super interesante y que me puse unos 4 años despues a indagar y  poder hacerlo ya que no me considero un as de la programacion ( me encantaria poder serlo) y viendo la poca informacion que se tiene a la hora de googlear una vez que lo he conseguido ahora mismo he decidio escribir esta miniguia por si alguien que pase por mi situacion pueda resolverlo y que empeiza ahora mismo.
 
 
