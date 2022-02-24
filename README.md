@@ -8,6 +8,9 @@ Final fight fue el primer juego de recreativa que jugue. Su historia simple pero
 
 
 -------------------------------------------------------------------------MATERIAL QUE SE NECESITA-------------------------------------------------------------------------------
+
+
+
 1º Retroarch con el nucleo mame 2003 plus instalado
 2º dentro de retroarch ve a la carpta system/mame2003plus y ahi creas una carpeta llamada samples
 3º una vez ahi colocas el zip o carpeta cuyo nombre sea igual al rom que en este caso se llamaria ffight.zip
